@@ -1,4 +1,9 @@
 # React Project of showing card
+![image](https://github.com/rir7890/LearnReactShowCard/assets/98277620/7a63b4b4-1afb-4f1f-8470-492e9b83406e)
+![image](https://github.com/rir7890/LearnReactShowCard/assets/98277620/6fd5664b-ec73-4127-b51e-96e47f580f7a)
+
+
+
 
 Quick start:
 
